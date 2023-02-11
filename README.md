@@ -45,7 +45,7 @@ to expand skills and gain valuable real-world experience.
 
 <p align="center" >
   <a href="https://sites.google.com/view/aastiksharmaportfolio/home?authuser=0"> 
-    <img src="https://img.shields.io/badge/-MyWebsite-brightgreen?style=flat&logo=website&logoColor=white" alt="website" height="50">
+    <img src="https://img.shields.io/badge/-MyWebsite-brightgreen?style=flat&logo=website&logoColor=white" alt="website" height="35">
     </a>
 </p>
 
