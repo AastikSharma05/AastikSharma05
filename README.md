@@ -9,3 +9,9 @@
   <a href="https://github.com/AastikSharma05"><img src="https://readme-typing-svg.demolab.com?font=&color=%2300ffff&lines=Student+%2F OpenSource+Contributor"></a>
 </p>
 
+
+<h3>
+<p align="center" >
+ Passion for coding, Excellent problem solving skill, Open source contributor, Web Developer, Computer Science Student.
+</p>
+</h3>
