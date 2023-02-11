@@ -50,3 +50,26 @@ to expand skills and gain valuable real-world experience.
     </a>
 </p>
 
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/AastikSharma05?tab=followers">
+    <img src="https://img.shields.io/github/followers/AastikSharma05.svg?style=social&label=Followers" alt="GitHub followers" height="25">
+  </a>
+  <a href="https://github.com/AastikSharma05?tab=repositories">
+    <img src="https://img.shields.io/github/repos/AastikSharma05.svg?label=Repos" alt="GitHub repositories" height="25">
+  </a>
+</p>
+<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aastik-sharma-8846061b8/">
+  <img src="https://img.icons8.com/fluency/50/000000/linkedin.png"/>
+  <a/>
+  <a href="https://github.com/AastikSharma05">
+  <img src="https://img.icons8.com/fluency/50/000000/github.png"/>
+  <a/>
+ <a href="mailto:aastik2002@gmail.com?subject=Github profile Visit">
+ <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
+ </a>
+</p>
