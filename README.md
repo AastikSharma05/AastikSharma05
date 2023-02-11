@@ -35,8 +35,7 @@ to expand skills and gain valuable real-world experience.
 
 <p align="center">
   <a href="https://github.com/AastikSharma05">
-    <img src="https://github-readme-stats.vercel.app/api?username=AastikSharma05&count_private=true&show_icons=true&theme=highcontrast" alt="GitHub Stats">
-    <img  width="415em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AastikSharma05&show_icons=true&locale=en&layout=compact&theme=radical" alt="Aastik's Most used lang" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=AastikSharma05&count_private=true&show_icons=true&theme=highcontrast" alt="GitHub Stats"> <img  width="415em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AastikSharma05&show_icons=true&locale=en&layout=compact&theme=radical" alt="Aastik's Most used lang" /> 
   </a>
 </p>
 
