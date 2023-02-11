@@ -31,3 +31,12 @@ to expand skills and gain valuable real-world experience.
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-red?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=css3&logoColor=white)
+
+<h2 align="center">⚡GitHub Stats</h2>
+
+<p align="center">
+  <a href="https://github.com/AastikSharma05">
+    <img src="https://github-readme-stats.vercel.app/api?username=AastikSharma05&count_private=true&show_icons=true&theme=highcontrast" alt="GitHub Stats">
+    <img  width="415em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AastikSharma05&show_icons=true&locale=en&layout=compact&theme=radical" alt="Aastik's Most used lang" /> 
+  </a>
+</p>
