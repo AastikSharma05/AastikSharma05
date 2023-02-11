@@ -5,7 +5,7 @@
   <h1 align="center">Aastik Sharma</h1>
 </p>
 <p align="center"> 
-  <a href="https://github.com/AastikSharma05"><img src="https://readme-typing-svg.demolab.com?font=&color=%2300ffff&lines=Student+%2F OpenSource+Contributor"></a>
+  ✨ Student / Developer / Open Source Contributor
 </p>
 
 
@@ -45,23 +45,12 @@ to expand skills and gain valuable real-world experience.
 
 <p align="center" >
   <a href="https://sites.google.com/view/aastiksharmaportfolio/home?authuser=0"> 
-    <img src="https://img.shields.io/badge/-MyWebsite-brightgreen?style=flat&logo=website&logoColor=white" alt="website" height="35">
+    <img src="https://img.shields.io/badge/-MyWebsite-brightgreen?style=flat&logo=website&logoColor=white" alt="website" height="37">
     </a>
-</p>
 
-
-<br>
-
-<p align="center">
   <a href="https://github.com/AastikSharma05?tab=followers">
-    <img src="https://img.shields.io/github/followers/AastikSharma05.svg?style=social&label=Followers" alt="GitHub followers" height="25">
+    <img src="https://img.shields.io/github/followers/AastikSharma05.svg?style=social&label=Followers" alt="GitHub followers" height="37">
   </a>
-  <a href="https://github.com/AastikSharma05?tab=repositories">
-    <img src="https://img.shields.io/github/repos/AastikSharma05.svg?label=Repos" alt="GitHub repositories" height="25">
-  </a>
-</p>
-<br>
-<p align="center">
   <a href="https://www.linkedin.com/in/aastik-sharma-8846061b8/">
   <img src="https://img.icons8.com/fluency/50/000000/linkedin.png"/>
   <a/>
