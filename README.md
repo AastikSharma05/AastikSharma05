@@ -23,3 +23,11 @@ Following passion for coding by pursuing Computer Science and Engineering. Excel
 perform well in a team. Contributor in open source projects and a reliable Intern who seeks an internship opportunity 
 to expand skills and gain valuable real-world experience.
 ```
+
+## 📫 Programing Languages:
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-red?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=css3&logoColor=white)
