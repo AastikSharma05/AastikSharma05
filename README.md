@@ -19,5 +19,7 @@
 <h2 align="center">🔭 About Me</h2>
 
 ```
-Following passion for coding by pursuing Computer Science and Engineering. Excellent problem-solving skills and ability to perform well in a team. Contributor in open source projects and a reliable Intern who seeks an internship opportunity to expand skills and gain valuable real-world experience.
+Following passion for coding by pursuing Computer Science and Engineering. Excellent problem-solving skills and ability to 
+perform well in a team. Contributor in open source projects and a reliable Intern who seeks an internship opportunity 
+to expand skills and gain valuable real-world experience.
 ```
