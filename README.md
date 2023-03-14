@@ -31,6 +31,23 @@ to expand skills and gain valuable real-world experience.
 ![CSS](https://img.shields.io/badge/CSS-red?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=css3&logoColor=white)
 
+## 🚧 Projects
+
+### Community project: Concise
+![App](https://github.com/AastikSharma05/Concise_app_code)
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h2 align="center">⚡GitHub Stats</h2>
 
 <p align="center">
