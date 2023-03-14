@@ -31,25 +31,37 @@ to expand skills and gain valuable real-world experience.
 ![CSS](https://img.shields.io/badge/CSS-red?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🚧 Projects
+# 🚧 Projects:
 
-### Community project:
+## Community project (Concise)
+<a href="https://github.com/AastikSharma05/Concise_app_code"> 
+    <img src="https://img.shields.io/badge/-Concise%20App%20Code-success" alt="website" height="39">
+    </a>
+    <a href="https://github.com/AastikSharma05/Concise"> 
+    <img src="https://img.shields.io/badge/-Concise%20Website%20Code-success" alt="website" height="39">
+    </a>
+    
+## Mini projects:
 
-## Concise
-![App Code](https://github.com/AastikSharma05/Concise_app_code)
-![Website Code](https://github.com/AastikSharma05/Concise)
+<a href="https://github.com/AastikSharma05/Banking-System"> 
+    <img src="https://img.shields.io/badge/-Banking%20System-success" alt="website" height="39">
+    </a>
+ 
+<a href="https://github.com/AastikSharma05/ExpenseManagementApp"> 
+    <img src="https://img.shields.io/badge/-Expense%20Management-success" alt="website" height="39">
+    </a>
 
-### Mini projects:
+<a href="https://github.com/AastikSharma05/Fiji-Website"> 
+    <img src="https://img.shields.io/badge/-Fiji%20Website-success" alt="website" height="39">
+    </a>
+ 
+<a href="https://github.com/AastikSharma05/Website--MindSpace"> 
+    <img src="https://img.shields.io/badge/-MindSpace-success" alt="website" height="39">
+    </a>
 
-## Banking System
-![Code](https://github.com/AastikSharma05/Banking-System)
-## Fiji
-![Code](https://github.com/AastikSharma05/Fiji-Website)
-## MindSpace
-![Code](https://github.com/AastikSharma05/Website--MindSpace)
-## Dice Game
-![Code](https://github.com/AastikSharma05/Dice-Game)
-
+<a href="https://github.com/AastikSharma05/Dice-Game"> 
+    <img src="https://img.shields.io/badge/-Dice%20Game-success" alt="website" height="39">
+    </a>
 
 
 
