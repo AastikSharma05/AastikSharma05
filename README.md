@@ -33,8 +33,23 @@ to expand skills and gain valuable real-world experience.
 
 ## 🚧 Projects
 
-### Community project: Concise
-![App](https://github.com/AastikSharma05/Concise_app_code)
+### Community project:
+
+## Concise
+![App Code](https://github.com/AastikSharma05/Concise_app_code)
+![Website Code](https://github.com/AastikSharma05/Concise)
+
+### Mini projects:
+
+## Banking System
+![Code](https://github.com/AastikSharma05/Banking-System)
+## Fiji
+![Code](https://github.com/AastikSharma05/Fiji-Website)
+## MindSpace
+![Code](https://github.com/AastikSharma05/Website--MindSpace)
+## Dice Game
+![Code](https://github.com/AastikSharma05/Dice-Game)
+
 
 
 
