@@ -62,6 +62,10 @@ to expand skills and gain valuable real-world experience.
 <a href="https://github.com/AastikSharma05/Dice-Game"> 
     <img src="https://img.shields.io/badge/-Dice%20Game-success" alt="website" height="39">
     </a>
+    
+ <a href="https://github.com/AastikSharma05/Star_Wars_Random_Character"> 
+    <img src="https://img.shields.io/badge/-Star%20Wars-success" alt="website" height="39">
+    </a>
 
 
 
