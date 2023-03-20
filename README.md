@@ -16,12 +16,18 @@
 </h3>
 
 <h2 align="center">🔭 About Me</h2>
-
+<p align="center" >
+  <a href="https://sites.google.com/view/aastiksharmaportfolio/home?authuser=0"> 
+    <img src="https://img.shields.io/badge/-MyWebsite-brightgreen?style=flat&logo=website&logoColor=white" alt="website" height="37">
+    </a>
+ </p>
+    
 ```
 Following passion for coding by pursuing Computer Science and Engineering. Excellent problem-solving skills and ability to 
 perform well in a team. Contributor in open source projects and a reliable Intern who seeks an internship opportunity 
 to expand skills and gain valuable real-world experience.
 ```
+
 
 ## 📫 Programing Languages:
 
@@ -91,9 +97,7 @@ to expand skills and gain valuable real-world experience.
 
 
 <p align="center" >
-  <a href="https://sites.google.com/view/aastiksharmaportfolio/home?authuser=0"> 
-    <img src="https://img.shields.io/badge/-MyWebsite-brightgreen?style=flat&logo=website&logoColor=white" alt="website" height="37">
-    </a>
+
 
   <a href="https://github.com/AastikSharma05?tab=followers">
     <img src="https://img.shields.io/github/followers/AastikSharma05.svg?style=social&label=Followers" alt="GitHub followers" height="37">
