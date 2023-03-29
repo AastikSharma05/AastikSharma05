@@ -53,7 +53,7 @@ to expand skills and gain valuable real-world experience.
     <img src="https://img.shields.io/badge/-Concise%20Website%20Code-success" alt="website" height="39">
     </a>
     
-## Mini projects:
+## Projects:
 
 <a href="https://github.com/AastikSharma05/Banking-System"> 
     <img src="https://img.shields.io/badge/-Banking%20System-success" alt="website" height="39">
