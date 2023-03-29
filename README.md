@@ -39,7 +39,13 @@ to expand skills and gain valuable real-world experience.
 
 # 🚧 Projects:
 
-## Community project (Concise)
+## Community Projects
+
+<a href="https://github.com/AastikSharma05/social_media"> 
+    <img src="https://img.shields.io/badge/-Social%20Media%20App-success" alt="website" height="39">
+    </a>
+    
+## Full Stack project (Concise)
 <a href="https://github.com/AastikSharma05/Concise_app_code"> 
     <img src="https://img.shields.io/badge/-Concise%20App%20Code-success" alt="website" height="39">
     </a>
